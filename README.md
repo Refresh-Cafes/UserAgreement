@@ -73,3 +73,53 @@ d) Refresh the Future, işbu Uygulama ve uzantısında mevcut her türlü hizmet
 e) Refresh the Future, Uygulama kapsamında verdiği hizmetlerin sürekli aktif ve erişilebilir olacağına dair hiçbir garanti vermemektedir. Refresh the Future özellikle yargı ve sair yetkili resmi merci karar ve uygulamaları, mücbir sebepler, üçüncü kişilerin sebep olduğu durumlar, internet bağlantı hizmeti sağlayan kuruluşlardan kaynaklanan aksaklıklar ve gecikmeler ve benzeri dış etkenler, yanlış kullanım, Refresh the Future’dan kaynaklanabilecek teknik arıza ve sair aksaklıklar, tamir çalışmaları veya diğer yönlendirmeler sonucu meydana gelen aksaklıklar konusunda hiçbir şekilde sorumluluk kabul etmez.
 
 f) Refresh the Future gerektiğinde, ağın işletim güvenliğinin tehlikede olması, ağa erişimin devamlılığı, ağda, yazılımda veya kayıtlı dosyalarda meydana gelebilecek arızaların önüne geçebilmek, muhtemel aksaklıkları engellemek veya etkisini azaltmak adına ve gerekli gördüğü diğer durumlarda hizmete erişimi sınırlandırabilir veya durdurabilir.
+
+## MADDE 6 – HİZMETLER
+
+6.1. Refresh the Future, kullanıcılara, “geri dönüştürülebilir ambalaj” teslim alma ve iade etme opsiyonları tanır. Kullanıcı’nın Uygulama üzerinden teslim alma sekmesini seçmesi üzerine Kullanıcı izni ile açılan kamera ile ilgili QR kodu okutulup teslim alım işlerini gerçekleştirebilmektedir. QR kodunun kullanıcı tarafından okutmasıyla beraber ödünç verme işlemi gerçekleşir ve depozito ücreti ön provizyonda beklemek koşulu ile kullanıcının sisteme kaydettiği kredi kartı limitinden bloke edilir. Uygulama üzerinden kullanıcı depozito fiyatını, mevcut veya geçmişte yaptığı işlemleri görüntüleyebilmektedir. Kullanıcı’nın iade sekmesini seçmesi sonucunda ise, son kullanıcı depozitosunu alabileceği geri dönüştürülebilir bardakları seçip uygulama üzerinde bir QR kodu üretir. QR kodu bardakları teslim alacak Kullanıcı (kafe ve festival sahibi kullanıcısı) tarafından açılan kamera sayesinde taratılır ve bardak iade sürecinin detaylarını görür. Kullanıcı (kafe ve festival sahibi kullanıcısı) iade işlemini onayladığında iade işlemi gerçekleştirilmektedir.
+
+6.2. Refresh the Future uygulaması, kullanıcılara kullandıkları bardak sayılarını, maliyet tasarrufunu, (yalnızca kafe ve festival sahiplerinin ilgili hesaplarında gözükecektir), kurtardıkları ağaç sayısını (kg cinsinden), tasarruf ettikleri enerji (Joule biriminden), plastik (kg cinsinden) ve karbondioksit (kg cinsinden) miktarlarını, ve güncel ve yakın tarihte yaptıkları işlemlerini görüntüleme, inceleme ve iletişime geçme hizmetlerini sunmaktadır.
+
+6.3. Bununla birlikte Uygulama üzerinden Kullanıcı’lar, Refresh the Future’ı nasıl kullanacaklarını anlatan bir videoyu, sıkça sorulan sorular sekmesini, Refresh’in hangi festivallerde yer aldığını ve çevresel etki raporlarını da inceleyebilmektedir. Öte yandan Kullanıcılara, Refresh the Future aracılığıyla, Refresh the Future’ın yer aldığı veya alacağı festivalleri inceleme, festival ile ilgili bilgilere ulaşma, festivaldeki teslim alma ve iade operasonlarını inceleme, anlaşmalı kafelerin yer aldığı, kafelere yol tarifi alınabildiği ve kafelerdeki kap sayılarının gerçek zamanlı görüntülenebildiği harita sekmesini de inceleme hizmeti sunulmaktadır.
+
+## MADDE 7 – UYGULANACAK HUKUK VE YETKİLİ MAHKEME
+
+İşbu Sözleşme'nin uygulanmasında ve yorumlanmasında Türk Hukuku uygulanacaktır. İşbu Sözleşme'den dolayı doğan veya doğabilecek her türlü ihtilafın hallinde İstanbul Merkez Mahkemeleri ve İcra Daireleri yetkilidir.
+
+## MADDE 8 – FİKRİ MÜLKİYET HAKLARI
+
+Uygulama'nın (genel görünüm, tasarım, metin, imge, logo, ikon, demonstratif, yazılı, elektronik, grafik veya makinede okunabilir şekilde sunulan teknik verileri, Refresh the Future markası, uygulanan iş metodu ve iş modeli, yazılım kodu ve diğer kodlar da dahil ve fakat bunlarla sınırlı olmamak kaydıyla) tüm unsurları Refresh the Future’a aittir ve/veya Refresh the Future tarafından üçüncü bir kişiden alınan telif hakkı altında kullanılmaktadır. Fikri ve Sınai haklar kapsamında korunan Refresh the Future’a ait tüm bu unsurlar önceden izin alınmadan ve kaynak gösterilmeden değiştirilemez, kopyalanamaz, çoğaltılamaz, başka bir lisana çevrilemez, yeniden yayımlanamaz, yeniden satılamaz, paylaşılamaz, dağıtılamaz, sergilenemez, Kullanıcı Sözleşmesi kapsamı dışında kullanılamaz veya bunlardan türemiş çalışmalar yapılamaz veya hazırlanamaz, aksi şekilde davranılması halinde, sorumlu kişi/kişiler Refresh the Future’ın uğradığı zararı ve/veya lisans verenler de dahil üçüncü kişilerin uğradıkları zararlardan dolayı Refresh the Future’dan talep edilen tazminat miktarını, mahkeme masrafları ve avukatlık ücreti de dahil olmak üzere karşılamakla yükümlü olacaklardır.
+
+## MADDE 9 – SÖZLEŞME DEĞİŞİKLİKLERİ
+
+Refresh the Future, tamamen kendi takdirine bağlı ve tek taraflı olarak, işbu Kullanıcı Sözleşmesi'ni veya herhangi bir hükmünü ve eklerini, uygun göreceği herhangi bir zamanda, Uygulama'da ilan etmek suretiyle değiştirebilir. İşbu Kullanıcı Sözleşmesi'nin değişen hükümleri, ilan edildikleri tarihte veya önceden belirtilen geçerlilik tarihi olması halinde ise geçerlilik tarihinde geçerlilik kazanacak; geri kalan hükümler, aynen yürürlükte kalarak hüküm ve sonuçlarını doğurmaya devam edecektir. İşbu Kullanıcı Sözleşmesi, üyelerin tek taraflı beyanları ile değiştirilemez.
+
+## MADDE 10 – MÜCBİR SEBEPLER
+
+10.1. Mücbir sebep terimi, doğal afet, ulusal veya uluslararası karışıklık, isyan, savaş, grev, ve salgın hastalık gibi Refresh the Future’ın gerekli bilgi güvenliği önlemleri almasına karşın Uygulama, Portal ve sisteme yapılan saldırılar da dahil ve fakat bunlarla sınırlı olmamak kaydıyla Refresh the Future’ın makul kontrolü haricinde gelişen ve Refresh the Future’ın gerekli özeni göstermesine rağmen önleyemediği kaçınılamayacak olaylar olarak yorumlanacaktır.
+
+10.2. Mücbir sebep sayılan tüm durumlarda, Taraflar işbu Sözleşme ile belirlenen edinimlerinden herhangi birini geç veya eksik ifa etme veya ifa etmeme nedeniyle yükümlü değildir.
+
+## MADDE 11 – KAYITLARIN GEÇERLİLİĞİ
+
+Kullanıcı, işbu Sözleşme' den doğabilecek ihtilaflarda Refresh the Future’ın kendi veri tabanında, sunucularında tuttuğu elektronik ve sistem kayıtlarının, ticari kayıtlarının, defter kayıtlarının, mikrofilm, mikrofiş ve bilgisayar kayıtlarının muteber bağlayıcı, kesin ve münhasır delil teşkil edeceğini ve bu maddenin HMK 193. madde anlamında delil sözleşmesi niteliğinde olduğunu kabul, beyan ve taahhüt eder.
+
+## MADDE 12 – SÖZLEŞMENİN FESHİ
+
+İşbu Kullanıcı Sözleşmesi, Kullanıcı Uygulamaya üye olduğu sürece yürürlükte kalacak ve taraflar arası hüküm ve sonuçlarını doğurmaya devam edecektir.
+
+## MADDE 13 – TEBLİGAT ADRESLERİ
+
+13.1. Kullanıcıların, Refresh the Future’a bildirdiği elektronik posta adresi, bu sözleşme ile ilgili olarak yapılacak her türlü bildirim için yasal adresin isteneceği elektronik posta olarak kabul edilir.
+
+13.2. Taraflar, mevcut elektronik postalarındaki değişiklikleri yazılı olarak diğer tarafa 3 (üç) gün içinde bildirmedikçe, eski elektronik postalara yapılacak isteklerin geçerli olacağını ve kendilerine yapılmış sayılacağını kabul ederler.
+
+## MADDE 14 – YÜRÜRLÜK
+
+14.1. Kullanıcı, işbu sözleşmede yer alan maddelerin tümünü okuduğunu, anladığını, kabul ettiğini ve kendisiyle ilgili olarak verdiği bilgilerin doğruluğunu onayladığını beyan, kabul ve taahhüt eder.
+
+14.2. İşbu Sözleşme, Kullanıcının, üyelik talebine, elektronik olarak onay verilmesi ile karşılıklı olarak kabul edilerek yürürlüğe girmiştir.
+
+14.3. Site ve uygulamada yer alan “İptal ve İade Sözleşmesi” ile “Gizlilik ve Kişisel Verileri Koruma Politikası” işbu Sözleşme’nin ayrılmaz bir parçası olup, Kullanıcı’lar söz konusu Gizlilik Politikasını ve İptal ve İade Sözleşmesi hükümlerini de okuduklarını, kabul ettiklerini ve içeriklerine uyacaklarını aksi takdirde bu siteye ve/veya uygulamaya erişim sağlamamaları, siteyi veya uygulamayı ziyaret etmeme ve görüntülememeleri ve kullanmamaları gerektiğini bildiklerini kabul, beyan ve taahhüt etmişlerdir.
+
+14.4. İşbu Sözleşme 14 (ondört) madde ve 2 (iki) adet Ek sözleşmeden oluşmakta olup, Kullanıcının sitede veya uygulamada yer alan Kullanıcı Sözleşmesi'ni onaylaması neticesinde, tarafların serbest iradeleri ile kurulmuştur.
